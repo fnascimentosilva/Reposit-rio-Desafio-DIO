@@ -1,0 +1,17 @@
+Passo a passo
+1 - Criar um novo repositório no Git, nomeando e colocando a Descrição, muito importante deixar público e marcar um README.
+2 - Após isso tendo o repositório criado iremos copiar ou melhor clonar nosso projeto pra modificarmos e trabalhar junto ao Git.
+    *Pressionamos em Code e copiamos a url:// do projeto.
+3 - Abrimos o Git Bash na pasta que iremos trabalhar e colocamos os seguintes comandos:
+    *git clone url:do projeto.
+4 - Criamos um arquivo com formato .md ou .txt, e colocamos o passo a passo dos comandos.
+Obs: Sempre é bom dar comandos de git status pra ver como está o andamento das modificações.
+5 - Feito todas as modificações chegou a hora de enviar ao Github:
+    *Usando os comandos git add. ou git add -A
+    *Logo em seguida o comando git commit -m "descrição do que está sendo feito no projeto, ou que está sendo commitado"
+    *Então damos o comando git push origin main, para enviar ao Github.
+6 - Pronto finalizamos nossa alteração e nosso código se encontra em nosso repositório remoto no Github.
+
+                                          O CÉU É O LIMITE!!! 
+
+ 
